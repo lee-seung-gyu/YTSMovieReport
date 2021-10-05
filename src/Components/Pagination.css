@@ -1,0 +1,26 @@
+#Pagination{
+    width:95%;
+    height:150px;
+
+    margin:0 auto;
+}
+
+#Pagination>#page_list{
+    width:50%;
+    height:50px;
+    margin:0 auto;
+    padding-left: 400px;
+}
+
+.page{
+    border:1px solid black;
+    margin-right:2px;
+    width:35px;
+    height:35px;
+    font-size:26px;
+    display: inline-block;
+    font-weight: bold;
+    padding-left:5px;
+    box-sizing: border-box;
+    margin-right:10px;
+}
